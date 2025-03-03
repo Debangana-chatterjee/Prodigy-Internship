@@ -26,6 +26,8 @@ Through data cleaning, handling missing values, and exploratory visualizations, 
 ### Task-2 
 
 **Objective:**
+
+
 The project aims to perform Exploratory Data Analysis (EDA) and data preprocessing on the Titanic dataset. The goal is to understand, clean, and transform the dataset for further analysis or predictive modeling.
 
 
