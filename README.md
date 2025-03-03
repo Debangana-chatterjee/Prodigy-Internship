@@ -23,3 +23,17 @@ Through data cleaning, handling missing values, and exploratory visualizations, 
 
 
 ---
+### Task-2 
+
+**Objective:**
+The project aims to perform Exploratory Data Analysis (EDA) and data preprocessing on the Titanic dataset. The goal is to understand, clean, and transform the dataset for further analysis or predictive modeling.
+
+
+**Key Insights:**
+
+- First-class passengers had a significantly higher survival rate compared to second and third-class passengers.
+- Females had a much higher survival rate than males.
+- The age distribution is right-skewed, with most passengers in their 20s–30s.
+- Higher fares were associated with a higher likelihood of survival.
+
+---
