@@ -25,7 +25,7 @@ Through data cleaning, handling missing values, and exploratory visualizations, 
 ---
 ### Task-2 
 
-**Objective:**
+**Objective**
 
 
 The project aims to perform Exploratory Data Analysis (EDA) and data preprocessing on the Titanic dataset. The goal is to understand, clean, and transform the dataset for further analysis or predictive modeling.
@@ -37,5 +37,25 @@ The project aims to perform Exploratory Data Analysis (EDA) and data preprocessi
 - Females had a much higher survival rate than males.
 - The age distribution is right-skewed, with most passengers in their 20s–30s.
 - Higher fares were associated with a higher likelihood of survival.
+
+---
+### Task-3
+
+**Objective**
+
+The project focuses on analyzing customer demographic data and banking interactions to derive insights for customer segmentation and marketing strategies. It includes exploratory data analysis (EDA), feature engineering, and machine learning to predict customer responses.
+
+
+**Key Insights:**
+
+- Certain customer demographics (age, job type, education level) show higher engagement with the bank's marketing campaigns.
+- The number of previous contacts plays a crucial role in predicting customer response.
+- Duration of Call was the most influential factor in predicting customer response.
+- Customers who had a positive outcome in the previous campaign were more likely to respond positively again
+- The dataset was imbalanced, SMOTE was applied to balance the dataset, leading to improved model performance.
+- The Decision Tree model provided reasonable accuracy of **79%**.
+- The classification report highlighted that precision and recall scores varied significantly between classes.
+- Further fine-tuning or alternative models could improve prediction accuracy.
+
 
 ---
