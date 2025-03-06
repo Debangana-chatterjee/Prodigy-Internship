@@ -58,3 +58,36 @@ The project focuses on analyzing customer demographic data and banking interacti
 
 
 ---
+## Task-4
+
+**Objective**
+
+The project aims to analyze sentiment from Twitter posts using Natural Language Processing (NLP) techniques. The dataset consists of 1.6 million tweets, extracted via the Twitter API, and annotated as either negative (0) or positive (4). The goal is to develop a model that can detect sentiment in social media posts.
+
+
+**Key Insights:**
+
+### Dataset Overview:
+
+- The dataset includes tweet text along with metadata like user ID, timestamp, and sentiment labels (0 for negative, 4 for positive).
+- A significant number of tweets require preprocessing to remove unnecessary elements such as URLs, special characters, and stopwords.
+
+### Preprocessing Steps:
+
+- Stopwords were removed using NLTK.
+- Tokenization, stemming, and lemmatization techniques were applied to standardize text.
+- Data cleaning included removing usernames, links, and punctuation.
+
+### Modeling Approach:
+
+- NLP techniques such as TF-IDF was used for feature extraction.
+- The classification model likely involved machine learning algorithms such as Logistic Regression.
+- Built with Streamlit for easy tweet sentiment prediction.
+
+### Results and Performance:
+
+- Sentiment classification model was evaluated using accuracy, precision, recall, and F1-score.
+- The results indicate the effectiveness of the chosen approach in distinguishing positive and negative sentiments.
+
+
+---
