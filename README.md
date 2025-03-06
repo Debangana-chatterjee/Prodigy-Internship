@@ -2,9 +2,8 @@
 
 
 ---
-## 📊 Projects Overview 
 
-### Task-1
+## Task-1
 
 **Objective:**
 - Analyze global population trends over the years.
@@ -23,7 +22,7 @@ Through data cleaning, handling missing values, and exploratory visualizations, 
 
 
 ---
-### Task-2 
+## Task-2 
 
 **Objective**
 
@@ -39,7 +38,7 @@ The project aims to perform Exploratory Data Analysis (EDA) and data preprocessi
 - Higher fares were associated with a higher likelihood of survival.
 
 ---
-### Task-3
+## Task-3
 
 **Objective**
 
